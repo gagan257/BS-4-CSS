@@ -1,0 +1,11 @@
+.row{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.col{
+    border: 1px solid red;
+    border-collapse: collapse;
+}
+.container{
+    border-collapse: collapse;
+}

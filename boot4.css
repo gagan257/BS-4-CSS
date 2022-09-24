@@ -1,0 +1,16 @@
+.container{
+    border: 1px solid black;
+    color: red;
+}
+.row{
+    border: 1px solid black;
+    color: red;
+}
+.col,.col-8,.col-4{
+    color: red;
+    border: 1px solid black;
+}
+div{
+    color: red;
+    border: 1px solid red;
+}

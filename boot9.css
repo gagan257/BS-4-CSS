@@ -1,0 +1,14 @@
+.container{
+    border: 1px solid black;
+    background-color: black;
+}
+div{
+    border: 1px solid red;
+}
+body{
+    background-color: grey;
+}
+h2,h3{
+    color: white;
+    text-align: center;
+}

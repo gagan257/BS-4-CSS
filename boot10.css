@@ -1,0 +1,13 @@
+.container{
+    background-color: black;
+}
+.row{
+    border: 1px solid white;
+}
+.col,.col-6{
+    color: white;
+    border: 1px solid white;
+}
+body{
+    background-color: grey;
+}

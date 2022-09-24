@@ -1,0 +1,21 @@
+h2{
+    border: 1px solid blue;
+    background-color: blue;
+}
+.container{
+    border: 1px solid black;
+}
+.row{
+    border: 1px solid white;
+}
+.col{
+    border: 1px solid white;
+    color: white;
+    background-color: black;
+}
+body{
+    background-color: aquamarine;
+}
+h2{
+    color: white;
+}

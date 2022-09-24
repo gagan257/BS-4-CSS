@@ -1,0 +1,28 @@
+.container{
+    background: grey;
+    border: 1px solid black;
+}
+.row{
+    border: 1px solid black;
+}
+.col{
+    border: 1px solid black;
+}
+ul{
+    list-style: none;
+}
+#heading{
+    background: red;
+}
+#navbar{
+    background: white;
+}
+#mainbody{
+    background: yellow;
+}
+#sidebody{
+    background: green;
+}
+#footer{
+    background: blue;
+}
